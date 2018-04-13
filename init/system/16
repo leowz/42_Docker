@@ -1,0 +1,3 @@
+cron
+in file /etc/cron.d
+started from /etc/init.d

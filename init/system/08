@@ -1,0 +1,2 @@
+on debian: ~/.ssh/authorized_keys
+on mac	: ~/.ssh/id_rsa.pub

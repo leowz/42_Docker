@@ -1,0 +1,6 @@
+use traceroute 10.51.1.253 we get:
+
+ 1  10.11.254.254 (10.11.254.254)  0.919 ms  0.866 ms  0.660 ms
+ 2  dhcp (10.51.1.253)  0.257 ms  0.234 ms  0.235 ms
+
+Note that the 10.51.253 IP is a dhcp server.

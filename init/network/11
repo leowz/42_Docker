@@ -1,0 +1,20 @@
+use "traceroute slash16.org" to detect all links between me and outside to slash16.org.
+result:
+ 1  10.11.254.254 (10.11.254.254)  1.229 ms  0.867 ms  0.857 ms
+ 2  nat-1 (10.60.1.11)  0.220 ms  0.243 ms  0.190 ms
+ 3  dc3 (62.210.35.1)  1.632 ms  2.074 ms  1.449 ms
+ 4  195.154.1.174 (195.154.1.174)  1.566 ms  1.158 ms  1.199 ms
+ 5  a9k1-45x-s44-2.dc3.poneytelecom.eu (195.154.1.104)  1.237 ms  1.230 ms  1.183 ms
+ 6  amazon.par.franceix.net (37.49.236.118)  1.429 ms  1.470 ms  1.445 ms
+ 7  52.93.16.132 (52.93.16.132)  20.781 ms
+    52.93.16.116 (52.93.16.116)  10.515 ms
+    52.93.16.52 (52.93.16.52)  41.396 ms
+ 8  52.93.16.143 (52.93.16.143)  2.107 ms
+    52.93.16.95 (52.93.16.95)  2.071 ms
+    52.93.16.77 (52.93.16.77)  2.136 ms
+ 9  52.46.93.211 (52.46.93.211)  2.963 ms  3.549 ms
+    52.46.93.213 (52.46.93.213)  2.999 ms
+10  54.239.42.163 (54.239.42.163)  1.979 ms  2.325 ms  1.955 ms
+11  176.32.124.79 (176.32.124.79)  1.824 ms  1.761 ms  1.756 ms
+
+Note that 1 entry is the default gateway, so the seconde entry "nat-1 (10.60.1.11)" is the device and ip that link me and the outside world

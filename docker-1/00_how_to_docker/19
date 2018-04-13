@@ -1,0 +1,1 @@
+docker run --rm -it --name=Abathur --mount type=bind,source="$(PWD)"/HOME,target=/root -p 3000:3000 python:2-slim bash

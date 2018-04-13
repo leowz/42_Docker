@@ -1,0 +1,5 @@
+To reroute:
+
+sudo echo "46.19.122.85	intra.42.fr" >> /etc/hosts
+
+Since we do not have the access to change the file, we can not do this with our account.

@@ -1,0 +1,9 @@
+apt-get -y update
+apt-get -y install gcc
+apt-get -y install vim
+apt-get -y install git-core
+git init
+git remote add https://github.com/docker/docker.git
+git add .
+git commit -m "commit"
+git push origin master
