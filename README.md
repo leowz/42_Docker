@@ -1,4 +1,5 @@
 # Docker - @42Born2Code
+![42pass](https://img.shields.io/badge/42-pass-brightgreen.svg)
 
 Docker is the project @42Born2Code which give us a guide to the world of networking and docker.
 
@@ -12,6 +13,7 @@ Those two projects are different as they are done in form of questions and answe
 
 ### Contents
 * [What's in it?](#whats-in-it)
+* [Grades](#grades)
 
 ### What's in it?
 
@@ -25,3 +27,7 @@ Those two projects are different as they are done in form of questions and answe
 	* dockerfiles: Writing simple docker files. Exercises of making customized docker images using docker files.
 	* bonus: Writing whatever customized docker files that fit one`s need.
 
+### Grades
+
+init: 		99/100
+docker-1:	90/100 
