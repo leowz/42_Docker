@@ -29,6 +29,7 @@ Those two projects are different as they are done in form of questions and answe
 
 ### Grades
 
-init: 		99/100
-
-docker-1:	90/100 
+project| score
+|:------| -----:|
+init: 	|	99/100
+docker-1:|	90/100 
